@@ -4,7 +4,7 @@ import seaborn as sns
 import plotly.express as px
 import numpy as np
 import matplotlib.pyplot as plt
-from PIL import Image
+
 
 
 
